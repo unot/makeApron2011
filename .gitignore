@@ -1,0 +1,9 @@
+*.log
+*.aux
+*.dvi
+*.pdf
+*.bb
+*.rtf
+*.jpg
+*.xbb
+.DS_Store
